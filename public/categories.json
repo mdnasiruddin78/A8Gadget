@@ -1,0 +1,22 @@
+[
+    {
+      "product_id": "P001",
+      "category": "accessories"
+    },
+    {
+      "product_id": "P002",
+      "category": "smartWatches"
+    },
+    {
+        "product_id": "P003",
+        "category": "laptops"
+    },
+    {
+       "product_id": "P004",
+       "category": "iphone" 
+    },
+    {
+       "product_id": "P005",
+       "category": "macBook"
+    }
+  ]

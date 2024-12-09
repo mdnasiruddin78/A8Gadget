@@ -1,0 +1,162 @@
+[
+  {
+    "product_id": "P001",
+    "product_title": "Wireless Earbuds",
+    "product_image": "https://i.ibb.co.com/2PDBxdX/TELEMMGLPICT000396279349-17277783418790-trans-Nv-BQz-QNjv4-Bqq-Vzuuqp-Fly-LIwi-B6-NTm-Jwf-SVWe-Z-v-E.webp",
+    "category": "accessories",
+    "price": 92,
+    "description": "High-quality wireless earbuds with noise cancellation and long battery life.",
+    "Specification": [
+      "Bluetooth 5.0",
+      "Water-resistant",
+      "20-hour battery life",
+      "Built-in microphone"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P002",
+    "product_title": "Smart Watch",
+    "product_image": "https://i.ibb.co.com/Tq4y997/rendering-smart-home-device-23-2151039302.jpg",
+    "category": "smartWatches",
+    "price": 110,
+    "description": "Stylish smart watch with heart rate monitor, GPS, and customizable faces.",
+    "Specification": [
+      "Heart rate monitoring",
+      "GPS tracking",
+      "Waterproof up to 50 meters",
+      "Interchangeable bands"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P003",
+    "product_title": "Gaming Laptop",
+    "product_image": "https://i.ibb.co.com/S7GbKjQ/editing-laptop-2048px-233661.webp",
+    "category": "laptops",
+    "price": 200,
+    "description": "High-performance gaming laptop with powerful graphics and ample storage.",
+    "Specification": [
+      "Intel Core i7 processor",
+      "16GB RAM",
+      "1TB SSD",
+      "NVIDIA RTX 3060 GPU"
+    ],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P004",
+    "product_title": "Iphone",
+    "product_image": "https://i.ibb.co.com/7YYMkkW/Apple-i-Phone-16-Pro-Max-release-date-price-and-features.jpg",
+    "category": "iphone",
+    "price": 165,
+    "description": "Rechargeable electric toothbrush with multiple brushing modes and timer.",
+    "Specification": [
+      "3 brushing modes",
+      "2-minute timer",
+      "Rechargeable battery",
+      "Soft bristles"
+    ],
+    "availability": true,
+    "rating": 4.0
+  },
+  {
+    "product_id": "P005",
+    "product_title": "MacBook",
+    "product_image": "https://i.ibb.co.com/0hP6ZvH/Mac-Book-Pro-2021.webp",
+    "category": "macBook",
+    "price": 159,
+    "description": "55-inch 4K UHD LED TV with HDR and smart TV capabilities.",
+    "Specification": [
+      "55-inch screen",
+      "4K UHD resolution",
+      "HDR support",
+      "Smart TV functionality"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P006",
+    "product_title": "Iphone",
+    "product_image": "https://i.ibb.co.com/yFFwt8j/iphone14pro.jpg",
+    "category": "iphone",
+    "price": 103,
+    "description": "Compact Bluetooth speaker with powerful sound and waterproof design.",
+    "Specification": [
+      "Bluetooth 5.0",
+      "Waterproof",
+      "12-hour battery life",
+      "Built-in microphone"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P007",
+    "product_title": "Wireless Earbuds",
+    "product_image": "https://i.ibb.co.com/mDhcX4v/SCOMB6-Q6-887-SM-R630-002-Front-w-lighting-Silver-RGB-1600x1200.jpg",
+    "category": "accessories",
+    "price": 85,
+    "description": "High-resolution digital camera with 20MP lens and 4K video recording.",
+    "Specification": [
+      "20MP lens",
+      "4K video recording",
+      "Optical zoom 5x",
+      "WiFi enabled"
+    ],
+    "availability": false,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P008",
+    "product_title": "Smart Watch",
+    "product_image": "https://i.ibb.co.com/0sPJwJR/Fk-Gwe-Me-B7hd-Pga-SFQdgsfj-1200-80.jpg",
+    "category": "smartWatches",
+    "price": 92,
+    "description": "Smart robot vacuum cleaner with WiFi control and automatic charging.",
+    "Specification": [
+      "WiFi control",
+      "Automatic charging",
+      "Multiple cleaning modes",
+      "HEPA filter"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P009",
+    "product_title": "Gaming Laptop",
+    "product_image": "https://i.ibb.co.com/31w1McR/gaming-laptop.jpg",
+    "category": "laptops",
+    "price": 123,
+    "description": "Stainless steel electric kettle with fast boiling and auto shut-off feature.",
+    "Specification": [
+      "1.5L capacity",
+      "Stainless steel",
+      "Fast boiling",
+      "Auto shut-off"
+    ],
+    "availability": true,
+    "rating": 4.3
+  }, 
+  {
+    "product_id": "P0010",
+    "product_title": "MacBook",
+    "product_image": "https://i.ibb.co.com/XtYDW4b/photo-1717865499857-ec35ce6e65fa.jpg",
+    "category": "macBook",
+    "price": 170,
+    "description": "Stainless steel electric kettle with fast boiling and auto shut-off feature.",
+    "Specification": [
+      "1.5L capacity",
+      "Stainless steel",
+      "Fast boiling",
+      "Auto shut-off"
+    ],
+    "availability": true,
+    "rating": 4.1
+  }
+]
