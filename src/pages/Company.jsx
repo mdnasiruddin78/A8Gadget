@@ -13,7 +13,7 @@ const Company = () => {
                     <title>Gadget Heaven / Company</title>
                 </Helmet>
             </div>
-            <div className="flex items-center justify-around mb-6 mt-10">
+            <div className="flex items-center justify-around mb-7 mt-10">
                 <h2 className="text-5xl font-bold text-green-500">First Come In<br /> Our Shop To Get<br /> This Offer</h2>
                 <img className="w-[500px] rounded-xl" src={bgImg} alt="" />
             </div>
