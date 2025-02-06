@@ -21,6 +21,19 @@
 
 ---
 
+### Dependencies : 
+- localforage
+- match-sorter
+- react
+- react-dom
+- react-helmet-async
+- react-hot-toast
+- react-icons
+- react-router-dom
+- sort-by
+
+---
+
 ### 🎨 Run the project locally step-by-step guideline :
 - Open the project folder in editor.
 - See all the technologie version are updated in current version.
