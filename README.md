@@ -1,9 +1,33 @@
-1. Live Website Link: https://classy-gecko-b206a7.netlify.app/
+### 🎨 project overview :
+- This is Online Gadget Web Page. User Can Select his favorite Gadget and buy the selected Gadget.I am using Local-Storage user selected gadget permanent select in dashboard section. User can see a gagget details all the information.
 
-2. Requirement Document Link: https://drive.google.com/file/d/1N-pz1AZaRhmIg7HkxYDdIiMJSrvawWa2/view?usp=drive_link
+---
 
-3. a.route change no relode. b.product show by category. c.product selection page.
+### 🛠 Technologies Used :
+- Html.
+- Css.
+- Tailwind Css.
+- Javascript.
+- React.
+- DaisyUi.
 
-4. I have used for handling and managing data local storage.
+---
 
-5. a.actice route b.sort by price. c.product details. d.local storage. e.change specific route.
+### 🎯 core features of the project :
+- Local-Storage.
+- Gadget Show by Category.
+- Sort by price.
+- Actice route.
+
+---
+
+### 🎨 Run the project locally step-by-step guideline :
+- Open the project folder in editor.
+- See all the technologie version are updated in current version.
+- then open the editor terminal and write npm run dev press enter key.
+- terminal give you a local Server link copy the link and past your browser run the link.
+
+---
+
+### live project links : 
+- https://classy-gecko-b206a7.netlify.app
